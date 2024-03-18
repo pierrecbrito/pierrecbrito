@@ -4,10 +4,9 @@
 - 💬 Me pergunte sobre **Python, React, Java e automação**
 - 📫 Como entrar em contato comigo: carlospierre07@gmail.com
 - 👀 Para saber um pouco mais sobre minhas experiências: https://www.linkedin.com/in/pierre-brito/
-
-<div style="text-align: center;">  
+  <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrecbrito&layout=compact)](https://github.com/pierrecbrito/github-readme-stats)
-</div>  
+
 <!--
 **pierrecbrito/pierrecbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
