@@ -5,7 +5,7 @@
 - 📫 Como entrar em contato comigo: carlospierre07@gmail.com
 - 👀 Para saber um pouco mais sobre minhas experiências: https://www.linkedin.com/in/pierre-brito/
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierrecbrito&" alt="pierrecbrito" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierrecbrito" alt="pierrecbrito" /></p>
 
 <!--
 **pierrecbrito/pierrecbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
