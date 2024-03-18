@@ -1,7 +1,7 @@
 <h1 align="center">Oi, me chamo Pierre Brito🖖</h1>
 <h3 align="center">Um estudante de programação com as stacks de Python + Django</h3>
 
-- 🔭 Atualmente estou pesquisando sobre projetos usando a stack Python +  Django
+- 🔭 Atualmente estudande de Análise de Sistemas
 - 📫 Como entrar em contato comigo: carlospierre07@gmail.com
 - 👀 Para saber um pouco mais sobre minhas experiências: https://www.linkedin.com/in/pierre-brito/
     
