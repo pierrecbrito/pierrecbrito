@@ -4,7 +4,7 @@
 - 📫 Como entrar em contato comigo: carlospierre07@gmail.com
 - 👀 Para saber um pouco mais sobre minhas experiências: https://www.linkedin.com/in/pierre-brito/
     
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryrabelo&show_icons=true&locale=en" alt="aryrabelo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pierrecbrito&show_icons=true&locale=pt-br" alt="aryrabelo" /></p>
 
 <!--
 **pierrecbrito/pierrecbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
