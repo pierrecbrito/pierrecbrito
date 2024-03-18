@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oi, me chamo Pierre Brito🖖
+
+- 🔭 Atualmente estou pesquisando sobre projetos usando a stack Python +  Django
+- 📫 Como entrar em contato comigo: carlospierre07@gmail.com
+- 👀 Para saber um pouco mais sobre minhas experiências: https://www.linkedin.com/in/pierre-brito/
+    
+
 
 <!--
 **pierrecbrito/pierrecbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
